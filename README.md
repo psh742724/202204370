@@ -53,17 +53,17 @@ README.md - 202204370 (Open Source Software Project - Due Date: 24.5.25)
 | 주차 | 강의범위 및 내용 | 필기 내용 |
 | :------: | ------ | ------ |
 | 제 1주 | Intro. What is git?  |  |
-| 제 2주 | Markup Language <br> 깃 시작하기 | <https://github.com/psh742724/202204370/blob/e3679485dab2a927ddbfc688be947fd354ae3ccb/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20SW%20-%2024.3.11.txt> |
-| 제 3주 | 버전 관리 <br> - 저장소 만들기 <br> - 커밋 <br> - 작업 돌리기 | <https://github.com/psh742724/202204370/blob/e3679485dab2a927ddbfc688be947fd354ae3ccb/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20SW%20-%2024.3.18.txt> |
-| 제 4주 | 브랜치 <br> - 브랜치 만들기 <br> - 브랜치 정보 확인 <br> - 브랜치 병합 | <https://github.com/psh742724/202204370/blob/e3679485dab2a927ddbfc688be947fd354ae3ccb/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20SW%20-%2024.3.25.txt> |
-| 제 5주 | 깃허브 <br> - 지역저장소와 원격저장소 연결 <br> - SSH 원격 접속 | <https://github.com/psh742724/202204370/blob/e3679485dab2a927ddbfc688be947fd354ae3ccb/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20SW%20-%2024.4.1.txt> |
+| 제 2주 | Markup Language <br> 깃 시작하기 | [2주차](https://github.com/psh742724/202204370/blob/e3679485dab2a927ddbfc688be947fd354ae3ccb/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20SW%20-%2024.3.11.txt "2주차") |
+| 제 3주 | 버전 관리 <br> - 저장소 만들기 <br> - 커밋 <br> - 작업 돌리기 | [3주차](https://github.com/psh742724/202204370/blob/e3679485dab2a927ddbfc688be947fd354ae3ccb/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20SW%20-%2024.3.18.txt "3주차") |
+| 제 4주 | 브랜치 <br> - 브랜치 만들기 <br> - 브랜치 정보 확인 <br> - 브랜치 병합 | [4주차](https://github.com/psh742724/202204370/blob/e3679485dab2a927ddbfc688be947fd354ae3ccb/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20SW%20-%2024.3.25.txt "4주차") |
+| 제 5주 | 깃허브 <br> - 지역저장소와 원격저장소 연결 <br> - SSH 원격 접속 | [5주차](https://github.com/psh742724/202204370/blob/e3679485dab2a927ddbfc688be947fd354ae3ccb/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20SW%20-%2024.4.1.txt "5주차") |
 | 제 6주 | 깃허브로 협업하기 |  |
-| 제 7주 | 셸 스크립트 기초 문법 <br> - 조건문, 반복문, 연산자 | <https://github.com/psh742724/202204370/blob/e3679485dab2a927ddbfc688be947fd354ae3ccb/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20SW%20-%2024.4.15.txt> |
+| 제 7주 | 셸 스크립트 기초 문법 <br> - 조건문, 반복문, 연산자 | [7주차](https://github.com/psh742724/202204370/blob/e3679485dab2a927ddbfc688be947fd354ae3ccb/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20SW%20-%2024.4.15.txt "7주차") |
 | 제 8주 | Mid-term |  |
-| 제 9주 | grep 사용법: 문자열 다루기 | <https://github.com/psh742724/202204370/blob/e3679485dab2a927ddbfc688be947fd354ae3ccb/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20SW%20-%2024.4.29%20(%EC%99%84%EC%84%B1).txt> |
+| 제 9주 | grep 사용법: 문자열 다루기 | [9주차](https://github.com/psh742724/202204370/blob/e3679485dab2a927ddbfc688be947fd354ae3ccb/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20SW%20-%2024.4.29%20(%EC%99%84%EC%84%B1).txt "9주차") |
 | 제 10주 | 	find 사용법: 파일 다루기 |  |
-| 제 11주 | awk 사용법: 특정 인텍스 문자열 출력하기 | <https://github.com/psh742724/202204370/blob/e3679485dab2a927ddbfc688be947fd354ae3ccb/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20SW%20-%2024.5.13.txt> |
-| 제 12주 | sed 사용법: 찾은 문자열 바꾸기 | <https://github.com/psh742724/202204370/blob/e3679485dab2a927ddbfc688be947fd354ae3ccb/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20SW%20-%2024.5.20.txt> |
+| 제 11주 | awk 사용법: 특정 인텍스 문자열 출력하기 | [11주차](https://github.com/psh742724/202204370/blob/e3679485dab2a927ddbfc688be947fd354ae3ccb/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20SW%20-%2024.5.13.txt "11주차") |
+| 제 12주 | sed 사용법: 찾은 문자열 바꾸기 | [12주차](https://github.com/psh742724/202204370/blob/e3679485dab2a927ddbfc688be947fd354ae3ccb/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20SW%20-%2024.5.20.txt "12주차") |
 | 제 13주 | date 사용법: 날짜, 시간 |  |
 | 제 14주 | 프로젝트 |  |
 | 제 15주 | 	Final |  |
