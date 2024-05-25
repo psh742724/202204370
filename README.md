@@ -23,7 +23,7 @@ README.md - 202204370 (Open Source Software Project - Due Date: 24.5.25)
 6. letters: _알파벳들을 줄바꿈을 활용하여 나타낸 파일로, 기초적인 Bash 실습에 주로 활용되는 파일_
 
 ## Syllabus of Open Source SoftWare - Including Notes I took Until Now
-|     교과목명     |      오픈소스SW      |
+|  교과목명  | 오픈소스SW |
 | :------: | :------ |
 | 이수구분 | 전공 |
 | 교과코드 | T01222202 |
@@ -44,10 +44,10 @@ README.md - 202204370 (Open Source Software Project - Due Date: 24.5.25)
 | 학습평가방법 추가설명 | (4) 과제물 - 매주 퀴즈 진행  |
 | 기타안내 및 유의사항 |   |
 
-|  제 1과제  | 과제명 |  |
+|  제 1과제  | 과제명 <br> 제출일 <br> 목표 <br> 진행 방법 및 유의 사항 <br> 참고 자료 |  |
 | ------ | ------ | ------ |
-| 제 2과제 |  |  |
-| 제 3과제 |  |  |
+| 제 2과제 | 과제명 <br> 제출일 <br> 목표 <br> 진행 방법 및 유의 사항 <br> 참고 자료 |  |
+| 제 3과제 | 과제명 <br> 제출일 <br> 목표 <br> 진행 방법 및 유의 사항 <br> 참고 자료 |  |
 
 
 | 주차 | 강의범위 및 내용 | 필기 내용 |
@@ -70,4 +70,4 @@ README.md - 202204370 (Open Source Software Project - Due Date: 24.5.25)
 
 
 ## 추가 내용
-- 
+- 목표는 정했으나 그 목표까지의 길을 어떻게 해쳐나길지가 문제로다
