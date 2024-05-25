@@ -61,7 +61,7 @@ README.md - 202204370 (Open Source Software Project - Due Date: 24.5.25)
 | 제 7주 | 셸 스크립트 기초 문법 <br> - 조건문, 반복문, 연산자 | <https://github.com/psh742724/202204370/blob/e3679485dab2a927ddbfc688be947fd354ae3ccb/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20SW%20-%2024.4.15.txt> |
 | 제 8주 | Mid-term |  |
 | 제 9주 | grep 사용법: 문자열 다루기 | <https://github.com/psh742724/202204370/blob/e3679485dab2a927ddbfc688be947fd354ae3ccb/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20SW%20-%2024.4.29%20(%EC%99%84%EC%84%B1).txt> |
-| 제 10주 | 	find 사용법: 파일 다루기 | <> |
+| 제 10주 | 	find 사용법: 파일 다루기 |  |
 | 제 11주 | awk 사용법: 특정 인텍스 문자열 출력하기 | <https://github.com/psh742724/202204370/blob/e3679485dab2a927ddbfc688be947fd354ae3ccb/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20SW%20-%2024.5.13.txt> |
 | 제 12주 | sed 사용법: 찾은 문자열 바꾸기 | <https://github.com/psh742724/202204370/blob/e3679485dab2a927ddbfc688be947fd354ae3ccb/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%20SW%20-%2024.5.20.txt> |
 | 제 13주 | date 사용법: 날짜, 시간 |  |
