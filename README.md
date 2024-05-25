@@ -3,7 +3,7 @@ README.md - 202204370 (Open Source Software Project - Due Date: 24.5.25)
 
  Description of Current Repository: _11주차 및 12주차 수업 시간에 학습한 내용을 토대로 markdown 언어를 활용하여 본인 및 본인이 작성한 레포지토리를 소개하기 위해 작성하였다._
 
- [![N|Solid](https://bashlogo.com/img/logo/png/full_colored_light.png)](https://bashlogo.com/img/logo/png/full_colored_light.png)
+ [![N|Solid](https://bashlogo.com/img/logo/png/full_colored_dark.png)](https://bashlogo.com/img/logo/png/full_colored_dark.png)
 
 
 ## My Current Files
